@@ -3,11 +3,6 @@
 // Starts Sessions
 session_start();
 
-// // Sets Database
-// include('db.php');
-// $db = new DB();
-
-
-
+// More stuff here
 
 ?>
